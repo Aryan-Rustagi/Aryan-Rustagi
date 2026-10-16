@@ -1,33 +1,60 @@
-<!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:1c1917&height=220&section=header&text=Aryan%20Rustagi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20AI-Integrated%20Web%20Apps&descAlignY=58&descSize=18" />
-
-<!-- TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=700&lines=Building+AI-powered+web+products;MERN+%7C+Spring+Boot+%7C+Docker;Shipping+LLM+features+with+real+impact;A+curious+software+developer" alt="Typing SVG" />
-</p>
+<!-- ================= HEADER ================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0891b2,50:6366f1,100:a855f7&height=260&section=header&text=Aryan%20Rustagi&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI-Integrated%20Web%20Apps&descAlignY=60&descSize=20" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aryan-Rustagi&label=Profile%20views&color=0891b2&style=flat" alt="views" />
-  <a href="https://github.com/Aryan-Rustagi?tab=followers"><img src="https://img.shields.io/github/followers/Aryan-Rustagi?logo=github&style=flat&color=0891b2&labelColor=1c1917" alt="followers" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Building+AI-powered+web+products;MERN+%7C+Spring+Boot+%7C+Docker;Wiring+LLMs+into+real+products;A+curious+software+developer+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://aryan-portfolio-two-virid.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/aryan-rustagi-b0347534b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:aryanrustagi1234@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Aryan-Rustagi&label=Profile%20views&color=6366f1&style=for-the-badge" />
 </p>
 
-## 👋 About Me
+---
 
-I'm a full-stack developer and CS student who builds scalable, user-friendly web apps and wires LLMs into real products. I like pairing clean frontends with robust backends.
+## 👨‍💻 About Me
 
-- 📍 Based in Jaipur, Rajasthan, India
-- 🔭 Currently building: **a Spring Boot application** and **an AI voice pipeline**
-- 🤖 Experience with: Llama 3.1, Groq, OpenAI and Gemini APIs, including a multi-provider API failover pipeline
-- 🏆 Core developer on **GuardianGo** at Smart India Hackathon 2026
-- 🤝 Open-source contributor to [Zerocode](https://github.com/authorjapps/zerocode) (PR #796)
-- 💬 Ask me about: React, Node.js, Socket.IO, LLM integration, Docker
-- ⚡ Fun fact: I'm a curious software developer who can't stop poking at how things work
+```js
+function Developer() {
+  this.name = "Aryan Rustagi";
+  this.role = "Full Stack Developer";
+  this.location = "Jaipur, India 🇮🇳";
+  this.education = "B.Tech CSE @ Kalvium x JECRC University";
+  this.stack = ["React", "Node.js", "Spring Boot", "MongoDB", "Docker"];
+  this.aiSkills = ["Llama 3.1", "Groq", "OpenAI", "Gemini", "API Failover"];
+  this.currentlyBuilding = ["Spring Boot app", "AI voice pipeline"];
+  this.funFact = "I'm a curious developer who can't stop poking at how things work";
+}
+
+Developer.prototype.lookingFor = function () {
+  return "Engineering internships + open-source projects 🤝";
+};
+```
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔭 Right now
+- 🍃 Building a **Spring Boot** application
+- 🎙️ Building an **AI voice pipeline**
+- 🤖 Shipping LLM-powered features
+
+</td>
+<td width="50%">
+
+### 🏆 Highlights
+- 🥉 3rd place, **Code Hunt 2025** (Round 1)
+- 🛟 Core dev, **GuardianGo** at Smart India Hackathon 2026
+- 🤝 Open-source PR to [Zerocode](https://github.com/authorjapps/zerocode) (#796)
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -35,39 +62,84 @@ I'm a full-stack developer and CS student who builds scalable, user-friendly web
   <img src="https://skillicons.dev/icons?i=js,java,python,react,nextjs,vite,tailwind,redux,nodejs,express,fastapi,spring,mongodb,postgres,docker,aws,linux,ubuntu,git,postman,figma,vscode&perline=11" />
 </p>
 
+---
+
 ## 🚀 Featured Projects
 
-### 📈 [Stock Analyzer](https://github.com/Aryan-Rustagi/stock-analyzer) · [Live Demo](https://stock-analyzer-mvyi.onrender.com/)
-AI-powered financial analytics platform using Llama 3.1 (via Groq) for sentiment analysis and portfolio insights.
-- 3-tier API failover across Finnhub, Alpha Vantage and Twelve Data with TTL caching, cutting API failures by 95%
-- 90+ commits, 28 merged PRs, JWT-secured dashboard, Dockerized and deployed on Render
+<table>
+<tr>
+<td width="50%" valign="top">
 
-`React` `Vite` `Node.js` `Express` `MongoDB` `Groq` `Llama 3.1` `Docker`
+### 📈 Stock Analyzer
+AI-powered analytics with **Llama 3.1 via Groq** for sentiment and portfolio insights. A 3-tier API failover cut failures by **95%**.
 
-### 🛟 [GuardianGo](https://github.com/Aryan-Rustagi/tourist-safety-app) · [Live Demo](https://tourist-safety-client.onrender.com/)
-Tourist safety and emergency dispatch network built for Smart India Hackathon 2026.
-- Real-time SOS and GPS sync with Socket.IO: 2-second location refresh and 30-second geofence checks
-- Dual traveler and responder portals with RBAC, 41 endpoints, SMS-to-WebSocket fallback
+`React` `Vite` `Node` `MongoDB` `Groq` `Docker`
 
-`React` `Node.js` `Express` `MongoDB` `Python` `FastAPI` `Socket.IO`
+[🔗 Live Demo](https://stock-analyzer-mvyi.onrender.com/) · [💻 Code](https://github.com/Aryan-Rustagi/stock-analyzer)
 
-### 🌿 [Ranjan Ayurveda](https://github.com/Aryan-Rustagi/RANJANAYURVEDA) · [Live Demo](https://ranjan-ayurveda.onrender.com/)
-Dual-portal clinic management platform for an Ayurvedic clinic.
-- Scheduling engine with 30-minute slot locking to prevent double-bookings
-- 22 REST endpoints secured with JWT, Bcrypt, Helmet and rate limiting
+</td>
+<td width="50%" valign="top">
 
-`React` `Node.js` `Express` `MongoDB` `Docker`
+### 🛟 GuardianGo
+Tourist safety and emergency dispatch network with real-time **SOS + GPS** over Socket.IO. Built for **Smart India Hackathon 2026**.
+
+`React` `Node` `FastAPI` `Socket.IO` `MongoDB`
+
+[🔗 Live Demo](https://tourist-safety-client.onrender.com/) · [💻 Code](https://github.com/Aryan-Rustagi/tourist-safety-app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌿 Ranjan Ayurveda
+Dual-portal clinic management platform with a **slot-locking scheduler** that prevents double-bookings. 22 secured REST endpoints.
+
+`React` `Node` `MongoDB` `Docker` `JWT`
+
+[🔗 Live Demo](https://ranjan-ayurveda.onrender.com/) · [💻 Code](https://github.com/Aryan-Rustagi/RANJANAYURVEDA)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎙️ AI Voice Pipeline *(in progress)*
+Speech-to-text, LLM, then text-to-speech, built for smooth real-time conversations.
+
+`JavaScript` `LLM APIs` `Web Speech`
+
+*Repo coming soon* ⏳
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aryan-Rustagi&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Rustagi&layout=compact&langs_count=8&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aryan-Rustagi&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=a855f7" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Rustagi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Aryan-Rustagi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Aryan-Rustagi&theme=tokyonight&hide_border=true&background=0d1117&ring=22d3ee&fire=a855f7&currStreakLabel=22d3ee" />
 </p>
+
+<details>
+<summary><b>🏅 Trophies and activity graph (click to expand)</b></summary>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aryan-Rustagi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-Rustagi&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" />
+</p>
+
+</details>
+
+---
 
 ## 🐍 Contribution Snake
 
@@ -79,4 +151,12 @@ Dual-portal clinic management platform for an Ayurvedic clinic.
   </picture>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1917,100:0891b2&height=100&section=footer" />
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <i>Open to engineering internships and collaborations on interesting open-source projects.</i>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:6366f1,100:0891b2&height=120&section=footer" />
