@@ -1,32 +1,82 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is aryan rustagi
-======================================================================================================================================
+<!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:1c1917&height=220&section=header&text=Aryan%20Rustagi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20AI-Integrated%20Web%20Apps&descAlignY=58&descSize=18" />
 
-Full Stack Web Developer
-------------------------
-
-I'm a passionate full-stack developer who enjoys building scalable, modern, and user-friendly web applications. I love turning ideas into real products by combining clean frontend experiences with robust backend systems.
-
-* 🌍  I'm based in Dharamshala
-* ✉️  You can contact me at [aryanrustagi1234@gmail.com](mailto:aryanrustagi1234@gmail.com)
-* 🧠  I'm currently learning A new framework and expanding my full-stack development skills
-* 👥  I'm looking to collaborate on Interesting open-source and real-world projects
-* 💬  Ask me about I enjoy solving challenging programming problems, exploring new technologies, and continuously improving my development workflow
-
-<p align="left">
-<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Spring Boot" title="Spring Boot" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a>
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=700&lines=Building+AI-powered+web+products;MERN+%7C+Spring+Boot+%7C+Docker;Shipping+LLM+features+with+real+impact;A+curious+software+developer" alt="Typing SVG" />
 </p>
 
-### Socials
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aryan-Rustagi&label=Profile%20views&color=0891b2&style=flat" alt="views" />
+  <a href="https://github.com/Aryan-Rustagi?tab=followers"><img src="https://img.shields.io/github/followers/Aryan-Rustagi?logo=github&style=flat&color=0891b2&labelColor=1c1917" alt="followers" /></a>
+</p>
 
-<p align="left"> <a href="https://www.github.com/Aryan-Rustagi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/Aryan Rustagi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-<a href="https://www.github.com/Aryan-Rustagi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Aryan-Rustagi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-### Badges
+<p align="center">
+  <a href="https://aryan-portfolio-two-virid.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/aryan-rustagi-b0347534b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:aryanrustagi1234@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-<b>My GitHub Stats</b>
+## 👋 About Me
 
-<a href="http://www.github.com/Aryan-Rustagi"><img src="https://github-readme-stats.vercel.app/api?username=Aryan-Rustagi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Aryan-Rustagi's GitHub stats" /></a>
+I'm a full-stack developer and CS student who builds scalable, user-friendly web apps and wires LLMs into real products. I like pairing clean frontends with robust backends.
 
-<a href="http://www.github.com/Aryan-Rustagi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-Rustagi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+- 📍 Based in Jaipur, Rajasthan, India
+- 🔭 Currently building: **a Spring Boot application** and **an AI voice pipeline**
+- 🤖 Experience with: Llama 3.1, Groq, OpenAI and Gemini APIs, including a multi-provider API failover pipeline
+- 🏆 Core developer on **GuardianGo** at Smart India Hackathon 2026
+- 🤝 Open-source contributor to [Zerocode](https://github.com/authorjapps/zerocode) (PR #796)
+- 💬 Ask me about: React, Node.js, Socket.IO, LLM integration, Docker
+- ⚡ Fun fact: I'm a curious software developer who can't stop poking at how things work
 
-<a href="https://github.com/Aryan-Rustagi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Rustagi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,java,python,react,nextjs,vite,tailwind,redux,nodejs,express,fastapi,spring,mongodb,postgres,docker,aws,linux,ubuntu,git,postman,figma,vscode&perline=11" />
+</p>
+
+## 🚀 Featured Projects
+
+### 📈 [Stock Analyzer](https://github.com/Aryan-Rustagi/stock-analyzer) · [Live Demo](https://stock-analyzer-mvyi.onrender.com/)
+AI-powered financial analytics platform using Llama 3.1 (via Groq) for sentiment analysis and portfolio insights.
+- 3-tier API failover across Finnhub, Alpha Vantage and Twelve Data with TTL caching, cutting API failures by 95%
+- 90+ commits, 28 merged PRs, JWT-secured dashboard, Dockerized and deployed on Render
+
+`React` `Vite` `Node.js` `Express` `MongoDB` `Groq` `Llama 3.1` `Docker`
+
+### 🛟 [GuardianGo](https://github.com/Aryan-Rustagi/tourist-safety-app) · [Live Demo](https://tourist-safety-client.onrender.com/)
+Tourist safety and emergency dispatch network built for Smart India Hackathon 2026.
+- Real-time SOS and GPS sync with Socket.IO: 2-second location refresh and 30-second geofence checks
+- Dual traveler and responder portals with RBAC, 41 endpoints, SMS-to-WebSocket fallback
+
+`React` `Node.js` `Express` `MongoDB` `Python` `FastAPI` `Socket.IO`
+
+### 🌿 [Ranjan Ayurveda](https://github.com/Aryan-Rustagi/RANJANAYURVEDA) · [Live Demo](https://ranjan-ayurveda.onrender.com/)
+Dual-portal clinic management platform for an Ayurvedic clinic.
+- Scheduling engine with 30-minute slot locking to prevent double-bookings
+- 22 REST endpoints secured with JWT, Bcrypt, Helmet and rate limiting
+
+`React` `Node.js` `Express` `MongoDB` `Docker`
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aryan-Rustagi&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Rustagi&layout=compact&langs_count=8&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Aryan-Rustagi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryan-Rustagi/Aryan-Rustagi/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aryan-Rustagi/Aryan-Rustagi/output/github-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Aryan-Rustagi/Aryan-Rustagi/output/github-snake.svg" />
+  </picture>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1917,100:0891b2&height=100&section=footer" />
